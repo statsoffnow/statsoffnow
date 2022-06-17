@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @statsoffnow
 - 👀 I’m interested in data science, biostatistics and machine learning.
-- 🌱 I’m currently learning machine learning with Python.
 - 📫 How to reach me? Go over to my youtube channel https://tinyurl.com/statsoff or twitter https://twitter.com/stats_off
 
 <!---
